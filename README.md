@@ -2,6 +2,7 @@
 
 <h2>Projects:</h2>
 
+- <b>[Analyze Network Traffic with tcpdump](https://github.com/chau-eric/tcpdump-capture/tree/main)</b>
 - <b>[Investigation of Classification Methods for Fashion-MNIST (kNN Classifier)](https://github.com/chau-eric/kNN-Investigation/tree/main)</b>
  
 <h2>Certifications</h2>
