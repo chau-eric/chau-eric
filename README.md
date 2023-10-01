@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
-- <b>[Investigation of Classification Methods for Fashion-MNIST (kNN Classifier)](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Investigation of Classification Methods for Fashion-MNIST (kNN Classifier)](https://github.com/chau-eric/kNN-Investigation/tree/main)</b>
  
 <h2>Certifications</h2>
 
