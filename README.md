@@ -1,7 +1,7 @@
 # Hi, I'm Eric!
 
 ## Projects:
-- [Simulating and Blocking Adversaries with LimaCharlie](https://github.com/chau-eric/beginner-wireshark)
+- [Simulating and Blocking Adversaries with LimaCharlie](https://github.com/chau-eric/LimaCharlie-Lab)
 - [Capture Packets with Wireshark](https://github.com/chau-eric/beginner-wireshark)
 - [Analyze Network Traffic with tcpdump](https://github.com/chau-eric/tcpdump-capture/tree/main)
 - [Investigation of Classification Methods for Fashion-MNIST (kNN Classifier)](https://github.com/chau-eric/kNN-Investigation/tree/main)
