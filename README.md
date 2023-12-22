@@ -1,6 +1,7 @@
 # Hi, I'm Eric!
 
 ## Projects:
+- [Mapping Incoming Attacks on Microsoft Azure](https://github.com/chau-eric/honeypot)
 - [Simulating and Blocking Adversaries with LimaCharlie](https://github.com/chau-eric/LimaCharlie-Lab)
 - [Capture Packets with Wireshark](https://github.com/chau-eric/beginner-wireshark)
 - [Analyze Network Traffic with tcpdump](https://github.com/chau-eric/tcpdump-capture/tree/main)
