@@ -9,6 +9,7 @@
  
 ## Certifications
 
+- [CompTIA Security+ (SY0-701)](https://www.credly.com/badges/adcf327c-f8ec-41c6-a0ae-ff1200c82acd/linked_in_profile)
 - [Google Cybersecurity Certificate](https://coursera.org/share/af449dd7f93a28ae2027ef0457fab040)
 
 ## Socials:
