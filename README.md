@@ -18,4 +18,4 @@
 [<img align="left" alt="EricChau | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/chau_cow/
-[linkedin]: https://www.linkedin.com/in/eric-chau-18971026b/
+[linkedin]: https://www.linkedin.com/in/eric-chau0
